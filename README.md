@@ -1,4 +1,4 @@
-# Different-Waved
+# Different-Waves
 Sine, Saw, Square and Triangle waves
 
 #include <stdio.h>
